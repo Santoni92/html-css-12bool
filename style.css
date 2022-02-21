@@ -12,6 +12,10 @@
     padding: 10px 20px;
     text-align: center;
 }
+.row-nested{
+    align-items: center;
+}
+
 
 .box-nested{
     padding: 5px 0px;
