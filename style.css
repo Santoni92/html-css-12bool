@@ -13,6 +13,12 @@
     text-align: center;
 }
 
+.box-nested{
+    padding: 5px 0px;
+    margin: 15px 5px;
+    text-align:center;
+}
+
 .bg-blue{
     background-color: #006cfa;
 }
